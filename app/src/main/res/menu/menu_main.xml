@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/icMenuBroCast"
+        android:icon="@drawable/ic_baseline_cast_24"
+        android:title="Notificações"
+        android:iconTint="@color/black"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/icMenuNotificacao"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        android:title="Notificações"
+        android:iconTint="@color/black"
+        app:showAsAction="always"/>
+
+</menu>
